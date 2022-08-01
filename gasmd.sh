@@ -2,7 +2,7 @@
 
 #Script used to update kali and pull down the tools I use for pen-testing
 
-echo 'I hope this works'
+echo 'Here goes nothing'
 cat << "EOF"
 
 @@@&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&@@@@@@@@@@@@@&@@@@@@
